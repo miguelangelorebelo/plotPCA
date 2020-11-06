@@ -1,4 +1,4 @@
 # plotPCA
 plot PCA for a research project
 
-![](PCA FINAL.png)
+![](https://github.com/miguelangelorebelo/plotPCA/blob/main/PCA%20FINAL.jpg)
